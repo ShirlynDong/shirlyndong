@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Shirlyn Dong.
 
-<!--
-**ShirlynDong/shirlyndong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Michigan with interests in software engineering, backend development, and artificial intelligence.
 
-Here are some ideas to get you started:
+### Experience
+- Software Engineer Intern @ GE HealthCare
+- Software Developer Intern @ Comerica Bank
+- NLP Research Assistant @ University of Michigan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+Python · Java · C++ · Go · JavaScript/TypeScript · React · Flask · PostgreSQL · Docker
+
+### Contact Me
+[LinkedIn](https://linkedin.com/in/shirlyn-dong) · shirlynd@umich.edu
